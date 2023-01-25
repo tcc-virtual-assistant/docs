@@ -30,6 +30,6 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - Quem são os seus desenvolvedores/criadores
 - Quem faz parte do grupo G6 da Bosch
 - O que significa ETS
-- O que signifaca a sigra de cada área (PT/ED/PS/etc)
+- O que signifaca a sigla de cada área (PT/ED/PS/etc)
 - O que cada área faz dentro da planta da Bosch
 - O que é VsDia
