@@ -15,7 +15,7 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - Qual é o seu objetivo como assistente virtual
 - Que horas são
 - Que dia é hoje
-- Qual é a temperatuda atual
+- Qual é a temperatura atual
 - Qual é a previsão do tempo
 - Onde fica determinada área
 - Qual é o cardápio do dia
