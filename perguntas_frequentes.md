@@ -1,6 +1,6 @@
 ## Perguntas frequentes
 Para que o nosso asistente virtual possa entregar uma experiência agradável para os seus usários e responda aos seus questionamentos é preciso ter em mente quais são as principais dúvidas dos colaboradores da Bosch, assim o documento vem com a intenção de rankear essas dúvidas para o desenvolvimento de suas possíveis respostas.
-
+***
 #### Perguntas genéricas:
 O Assistente virtual vem com a intenção de informar ao colaborador não apenas perguntas que se relacionam a Bosch ou sua planta, mas como também tem a intenção de solucionar dúvidas em relação a outros temas, como:
 - Programação
@@ -8,7 +8,7 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - Eletroeletrônica
 - Econômia
 - Metodologias de processos e projetos
-
+***
 #### Perguntas relacionadas a Bosch:
 - Quem é o presidente da planta
 - Quem é o presidente da Bosch
