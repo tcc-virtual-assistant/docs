@@ -2,6 +2,8 @@
 
 **Fonte:** [Google Fontes](https://patents.google.com/patent/US10002259B1/en)
 
+**País:** Estados Unindos
+
 **Inverntor:**
 - Xiao Ming Mai
 

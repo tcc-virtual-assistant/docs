@@ -2,6 +2,8 @@
 
 **Fonte:** [Google Patents](https://patents.google.com/patent/US20070043687?oq=virtual+assistant)
 
+**País:** Estados Unidos
+
 **Inventores:**
 - Andrew Bodart;
 - Chris Condon.

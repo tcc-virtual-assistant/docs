@@ -2,6 +2,8 @@
 
 **Fonte:** [Google Fontes](https://patents.google.com/patent/US20160309246?oq=Smart+Speaker)
 
+**País:** Estados Unidos
+
 **Inventor:**
 - James Thomas O'Keeffe.
 
