@@ -15,13 +15,26 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - **Quem é o presidente/CEO da Bosch**
     - *Resposta:* O Doutor Stefan Hartung é presidente do conselho de administração e acionista da Robert Bosch, G1 desde 1º de janeiro de 2022. Suas responsabilidades incluem estratégia corporativa, comunicações corporativas, assuntos governamentais e desenvolvimento de tecnologia. Ele também é responsável pela pesquisa corporativa, engenharia avançada, gerenciamento de qualidade corporativa e pelo departamento corporativo de Fabricação de Tecnologia. Além disso, ele é responsável pela subsidiária Bosch Healthcare Solutions e pelas operações da Bosch na China.
 - Qual é o seu objetivo como assistente virtual
-- Que horas são
-- Que dia é hoje
-- Qual é a temperatura atual
-- Qual é a previsão do tempo
-- Onde fica determinada área
-- Qual é o cardápio do dia
-- Quanto custa o almoço e o Gril
+- **Que horas são**
+    - *Resposta:* horário atual
+- **Que dia é hoje**
+    - *Resposta:* dia atual
+- **Qual é a temperatura atual**
+    - *Resposta:* temperatura atual
+- **Qual é a previsão do tempo**
+    - *Resposta:* Previsão do tempo no dia
+- **Onde fica determinada área**
+    - *Resposta:* Caminho da área perguntada
+- **Qual é o cardápio do dia**
+    - Moda da Casa; 
+    - Receita do Chefe; 
+    - Gril;
+    - De bem com a vida;
+    - Sobremesa.
+- **Quanto custa o almoço, Gril e sobremesa**
+    - Preço do almoço;
+    - Preço do Grill;
+    - preço da sobremesa.
 - Qual é a grade curricular de determinado curso da ETS
 - Agenda da semana/dia
 - O que faz a Bosch
