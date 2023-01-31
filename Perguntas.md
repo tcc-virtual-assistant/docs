@@ -19,17 +19,25 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - Qual é a previsão do tempo
 - Onde fica determinada área
 - Qual é o cardápio do dia
+- Quanto custa o almoço e o Gril
 - Qual é a grade curricular de determinado curso da ETS
 - Agenda da semana/dia
 - O que faz a Bosch
 - Quem foi Robert Bosch
 - Qual é a história da Bosch
 - Quantas Bosch existem no mundo
+- Quantos setores existem dentro da Bosch Campinas
 - Quantas Bosch existem em determinado continente
 - Quem são os instrutores da ETS
 - Quem são os seus desenvolvedores/criadores
 - Quem faz parte do grupo G6 da Bosch
 - O que significa ETS
-- O que signifaca a sigla de cada área (PT/ED/PS/etc)
+- O que significa a sigla de cada área (PT/ED/PS/etc)
 - O que cada área faz dentro da planta da Bosch
 - O que é VsDia
+- Quais são os turnos da Bosch e seus horários
+- Como eu posso arumar o meu ponto
+- Como enviar o atestado para o ambulatório
+- Onde devolvo o cracha provisório
+- Onde posso retirar os EPIs
+- Lista de ramal
