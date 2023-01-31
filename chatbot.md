@@ -16,4 +16,4 @@ A NumPy é uma biblioteca utilizada para realizar cálculos matemáticos de alto
 Nós a utilizamos para criar diversos arrays, exemplo: (imagem).
 
 ## PyTorch ( ? )
-O PyTorch é um framework de aprendizado de máquina (machine learning) para criar redes neurais
+O PyTorch é um framework de aprendizado de máquina (machine learning) para criar redes neurais. O primeiro uso das funcionalidades foi para realizar o treinamento de dados
