@@ -11,8 +11,9 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 ***
 #### Perguntas relacionadas a Bosch:
 - **Quem é o presidente da planta/Bosch América Latina**
-    - *Resposta:* Gastón Diaz Perez, 45 anos assumiu a presidência da Robert Bosch América Latina em 2022. Graduado em Administração de Empresas pela Pontifícia Universidade Católica da Argentina (UCA), Gastón possui MBA em Gestão pela Universidade Austral (IAE) em Buenos Aires. Iniciou no Grupo Bosch no programa de trainee executivo em 2000 e desenvolveu sua carreira internacional ocupando diferentes posições nas áreas financeiras e comerciais na Argentina, Espanha, Brasil e Alemanha.
-- Quem é o presidente/CEO da Bosch
+    - *Resposta:* Gastón Diaz Perez, 45 anos, assumiu a presidência da Robert Bosch América Latina em 2022. Graduado em Administração de Empresas pela Pontifícia Universidade Católica da Argentina (UCA), Gastón possui MBA em Gestão pela Universidade Austral (IAE) em Buenos Aires. Iniciou no Grupo Bosch no programa de trainee executivo em 2000 e desenvolveu sua carreira internacional ocupando diferentes posições nas áreas financeiras e comerciais na Argentina, Espanha, Brasil e Alemanha.
+- **Quem é o presidente/CEO da Bosch**
+    - *Resposta:* O Doutor Stefan Hartung é presidente do conselho de administração e acionista da Robert Bosch, G1 desde 1º de janeiro de 2022. Suas responsabilidades incluem estratégia corporativa, comunicações corporativas, assuntos governamentais e desenvolvimento de tecnologia. Ele também é responsável pela pesquisa corporativa, engenharia avançada, gerenciamento de qualidade corporativa e pelo departamento corporativo de Fabricação de Tecnologia. Além disso, ele é responsável pela subsidiária Bosch Healthcare Solutions e pelas operações da Bosch na China.
 - Qual é o seu objetivo como assistente virtual
 - Que horas são
 - Que dia é hoje
