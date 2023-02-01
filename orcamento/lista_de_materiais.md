@@ -9,6 +9,7 @@ Headphone 3.5mm P2 | 01 | 30,50 | [Amazon](https://www.amazon.com.br/Fone-Ouvido
 Microfone de lapela | 01 | 20,00 | [Casas Bahia](https://www.casasbahia.com.br/microfone-de-lapela-celular-smartphone-profissional-stereo-1505842478/p/1505842478?utm_medium=Cpc&utm_source=google_freelisting&IdSku=1505842478&idLojista=12231&tipoLojista=3P) |
 Speaker C3Tech SP-301 | 01 | 39,90 | [Amazon](https://www.amazon.com.br/Speaker-SP-301BK-C3TECH-Altos-Falantes-Computador/dp/B075XH82V8) |
 Kit de Jumpers | 01 | 19,98 | [Amazon](https://www.amazon.com.br/Cabinho-Jumper-Macho-Unidades-Protoboard/dp/B09QCJ9P79/ref=asc_df_B09QCJ9P79/?tag=googleshopp00-20&linkCode=df0&hvadid=379738801152&hvpos=&hvnetw=g&hvrand=15412667090974180204&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1659572705882&psc=1) |
+Rodinha Rodízio | 04 | 59,32 | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-2022154076-4-rodinha-rodizio-roda-reforcada-moveis-pesados-50mm-400kg-_JM?matt_tool=81686442&matt_word=&matt_source=google&matt_campaign_id=14302215513&matt_ad_group_id=134553699108&matt_match_type=&matt_network=g&matt_device=c&matt_creative=539425477675&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=313125094&matt_product_id=MLB2022154076&matt_product_partition_id=1800928019913&matt_target_id=aud-1454065850347:pla-1800928019913&gclid=CjwKCAiAuOieBhAIEiwAgjCvcvx6XhjwMeOpjXPEXwEj1_Xw8eaOlmfPnSbLsYChLuAd-1PGg41bIhoC10MQAvD_BwE)
 
 ***
 
@@ -62,3 +63,9 @@ Kit de Jumpers | 01 | 19,98 | [Amazon](https://www.amazon.com.br/Cabinho-Jumper-
 - Modelo: CJ-MF-40
 - Tipo de material: Alumínio
 - Dimensões do produto: 20 x 5 x 2 cm; 300g
+
+
+**Rodinha Rodízio:**
+- Marca: Clickforte
+- Diâmetro: 50 mm
+- Espessura: 22mm
