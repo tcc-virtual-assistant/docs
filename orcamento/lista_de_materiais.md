@@ -63,8 +63,12 @@ Trilho de gaveta | 02 | 29,90 | [Amazon](https://www.amazon.com.br/Corredi%C3%A7
 - Tipo de material: Alumínio
 - Dimensões do produto: 20 x 5 x 2 cm; 300g
 
-
 **Rodinha Rodízio:**
 - Marca: Clickforte
 - Diâmetro: 50 mm
 - Espessura: 22mm
+
+**Trilho de gaveta:**
+- Peso do produto: 80g
+- Marca: FGVTN
+- Dimensões do produto: 10 x 10 x 35 cm; 80g
