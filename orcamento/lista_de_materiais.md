@@ -4,7 +4,7 @@ Produto | Quantidade | Preço | Local de compra
 :-----: | :-----: | :-----: | :-----:
 Raspberry PI 4 4gb | 01 | 1.300,00 | [Amazon](https://www.amazon.com.br/Raspberry-Pi-Computer-Model-RAM/dp/B07TC2BK1X/ref=asc_df_B07TC2BK1X/?tag=googleshopp00-20&linkCode=df0&hvadid=379714766595&hvpos=&hvnetw=g&hvrand=11063959695783500838&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-818643320764&psc=1) |
 Tela Touch LCD para Raspberry | 01 | 350,00 | [Baú da eletrônica](https://www.baudaeletronica.com.br/display-lcd-tft-touch-5-raspberry-pi.html) |
-Teclado sem fio Logitec Touchpad integrado | 01 | 165,00 | [Amazon](https://www.amazon.com.br/Embutido-Nanoreceptor-Unifying-Inclusas-Logitech/dp/B074WKD77F/ref=asc_df_B074WKD77F/?tag=googleshopp00-20&linkCode=df0&hvadid=379725868941&hvpos=&hvnetw=g&hvrand=14940732720720971089&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-811347645513&psc=1) |
+Mini Teclado Multilaser | 01 | 69,00 | [Amazon](https://www.amazon.com.br/Multilaser-TC153-Teclado-Comfort-Preto/dp/B074WGMF1Q/ref=asc_df_B074WGMF1Q/?tag=googleshopp00-20&linkCode=df0&hvadid=379713309507&hvpos=&hvnetw=g&hvrand=9776396848694902944&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-811347645313&th=1) |
 Headphone 3.5mm P2 | 01 | 30,50 | [Amazon](https://www.amazon.com.br/Fone-Ouvido-Headset-Hs302-Newlink/dp/B0754CLHP1/ref=d_pd_sbs_sccl_2_7/131-0797966-0324922?pd_rd_w=Pnga2&content-id=amzn1.sym.d5ffa5eb-c14b-4098-a3c1-e33e4cc20b5c&pf_rd_p=d5ffa5eb-c14b-4098-a3c1-e33e4cc20b5c&pf_rd_r=SN12B4CAGKC4JB3RJ871&pd_rd_wg=meI0n&pd_rd_r=58a7fc36-860e-4bea-b1e2-35daff6e8c7a&pd_rd_i=B0754CLHP1&psc=1) |
 Microfone de lapela | 01 | 20,00 | [Casas Bahia](https://www.casasbahia.com.br/microfone-de-lapela-celular-smartphone-profissional-stereo-1505842478/p/1505842478?utm_medium=Cpc&utm_source=google_freelisting&IdSku=1505842478&idLojista=12231&tipoLojista=3P) |
 Speaker C3Tech SP-301 | 01 | 39,90 | [Amazon](https://www.amazon.com.br/Speaker-SP-301BK-C3TECH-Altos-Falantes-Computador/dp/B075XH82V8) |
@@ -31,12 +31,10 @@ Rodinha Rodízio | 04 | 59,32 | [Mercado Livre](https://produto.mercadolivre.com
 - Display LCD: TFT Touch 5"
 
 **Teclado sem fio Logitec Touchpad integrado:**
-- Fabricante: Logitech
-- Sistema operacional: Windows 10, 11 ou superior , Chrome OS, Android 7 ou superior
-- Pilhas ou baterias inclusas: sim
-- Altura do produto: 3.2 centímetros
-- Largura do produto: 37 centímetros
-- Tecnologia de conexão: USB
+- Fabricante: Multilaser
+- Sistema operacional: Windows, Linux, MacOS
+- Material: plastico
+- Dimensões do produto: 28.3 x 12.2 x 5.8 cm; 250g
 
 **Headphone 3.5mm P2:**
 - Fabricante: Newlink
