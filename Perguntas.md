@@ -47,13 +47,19 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
     - *Resposta:* O cracha provisório deve ser devolvido na portaria 4 no momento em que você estiver saindo da Bosch. Lembre-se de que o cracha não deve ser retirado da planta.
 - **O que é VsDia**
     - *Resposta:* O VsDia se trata de uma metodologia de estudo de caso, ela é utilizada antes de iniciar um projeto que vai aprimorar ou interferir em uma linha de processos já existentes. Essa ferramenta ajuda no planejamento, cálculo de horas de trabalho, e divisão de tarefas. O diagrama geralmente é desenvolvido utilizando o software do Excel.
+- **Quem faz parte do grupo G6 da Bosch**
+    - *G1:* Dr. Stefan Hartung
+    - *G2:* Dr. Christian Fischer
+    - *G4:* Dr. Markus Heyn
+    - *G5:* Dr. Markus Forschner
+    - *G6:* Filiz Albrecht
+    - *G7:* Dr. Tanja Rückert
 - Qual é a grade curricular de determinado curso da ETS
 - Agenda da semana/dia
 - Quantos setores existem dentro da Bosch Campinas
 - Quantas Bosch existem em determinado continente
 - Quem são os instrutores da ETS
 - Quem são os seus desenvolvedores/criadores
-- Quem faz parte do grupo G6 da Bosch
 - O que significa ETS
 - O que significa a sigla de cada área (PT/ED/PS/etc)
 - O que cada área faz dentro da planta da Bosch
