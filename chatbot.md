@@ -12,12 +12,12 @@ O NLTK é uma biblioteca para trabalhar com dados de linguagem natural/humana e 
 Já a stemização tem a função de transformar os verbos conjugados para o verbo no infinitivo, para as palavras em inglês é utilizado o PorterStemmer e para as palavras em português nltk.stem.RSLPStemmer.
 ![image](https://user-images.githubusercontent.com/101810029/216030661-5c1752be-d83c-47c5-bb0c-7fd8d2293749.png)
 
-![image](https://user-images.githubusercontent.com/101810029/216031230-236c9607-0a86-4537-a721-3220ead67787.png)
-a função bag_of_words recebe as listas de strings tokenizadas e stemitizadas 
+![image](https://user-images.githubusercontent.com/101810029/216031230-236c9607-0a86-4537-a721-3220ead67787.png)</br>
+a função bag_of_words recebe as listas de strings tokenizadas e stemetizadas e identifica quais dessas strings recebidas se encontram no padrão pré estabelecido de perguntas (patterns, arquivo json), se a string tiver uma correspondente ela recebe o numero 1, se não, o numero 0. A comparação é feita com todas as patterns de todas as tags, a que mais tiver compatibilidade (receber 1) irá ser assimilada com a devida resposta pré estabelecida na tag. A biblioteca utilizada para conversão de string em float e atribuição de 0 e 1 é a numpy.
 
 ## NumPy (Numeral Python)
 A NumPy é uma biblioteca utilizada para realizar cálculos matemáticos de alto nível envolvendo arrays e matrizes.
-Nós a utilizamos para criar diversos arrays, exemplo: (imagem).
+Nós a utilizamos na função da bag of words, linhas 26 e 29 (imagem acima)
 
 ## PyTorch ( ? )
 O PyTorch é um framework de aprendizado de máquina (machine learning) para criar redes neurais. O primeiro uso das funcionalidades foi para realizar o treinamento de dados.
