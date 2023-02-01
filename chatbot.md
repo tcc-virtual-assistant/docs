@@ -19,5 +19,9 @@ a função bag_of_words recebe as listas de strings tokenizadas e stemetizadas e
 A NumPy é uma biblioteca utilizada para realizar cálculos matemáticos de alto nível envolvendo arrays e matrizes.
 Nós a utilizamos na função da bag of words, linhas 26 e 29 (imagem acima)
 
+Essas funções são chamadas no arquivo train.py, onde é passado todas as perguntas pré definidas (patterns) para a função de tokenização e adicionadas a uma lista com a sua tag referente, exemplo: [['comer', 'almoçar'],'restaurante'].
+O mesmo ocorre com a stemização, que transforma todas as strings da lista obtida na tokenização. Após o processo, a 'bag_of_words' é chamada com o mesmo propósito das anteriores.
+![image](https://user-images.githubusercontent.com/101810029/216058014-7cfe34ba-e2f3-49d9-a4c6-2e734af8e9a1.png)
+
 ## PyTorch ( ? )
 O PyTorch é um framework de aprendizado de máquina (machine learning) para criar redes neurais. O primeiro uso das funcionalidades foi para realizar o treinamento de dados.
