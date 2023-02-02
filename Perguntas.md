@@ -78,3 +78,8 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - [A Bosch no mundo](https://www.bosch.com.br/sites-pelo-mundo/#:~:text=A%20Bosch%20no%20mundo,150%20pa%C3%ADses%20espalhados%20pelo%20mundo.)
 - [Bosch - Industria e Comércio](https://www.bosch.com.br/produtos-e-servicos/industria-e-comercio/#:~:text=A%20Bosch%20desenvolve%20ferramentas%20el%C3%A9tricas,e%20facilitam%20o%20seu%20trabalho.)
 - [Bosch - A história do nosso sucesso](https://www.bosch.com.br/nossa-empresa/nossa-historia/#:~:text=Em%201886%2C%20Robert%20Bosch%20fundou,e%20pelo%20seu%20comprometimento%20social.)
+- [G2 - Dr. Christian Fischer](https://www.bosch-presse.de/pressportal/de/en/dr-christian-fischer-163648.html)
+- [G4 - Dr. Markus Heyn](https://www.bosch-presse.de/pressportal/de/en/dr-markus-heyn-43340.html)
+- [G5 - Dr. Markus Forschner](https://www.bosch-presse.de/pressportal/de/en/dr-markus-forschner-230465.html)
+- [G6 - Filiz Albrecht](https://www.bosch-presse.de/pressportal/de/en/filiz-albrecht-214209.html)
+- [G7 - Dr. Tanja Rückert](https://www.bosch-presse.de/pressportal/de/de/dr-tanja-rueckert-250368.html)
