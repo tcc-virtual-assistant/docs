@@ -54,11 +54,18 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
     - *G5:* Dr. Markus Forschner
     - *G6:* Filiz Albrecht
     - *G7:* Dr. Tanja Rückert
+- **Agenda da semana/dia**
+    - *Resposta:* Para poder verificar a agenda da semana montada pelos instrutores da ETS, acesse a aba de agenda na interface do meu sistema.
+- Quem são os instrutores da ETS
+    - Cleber Augusto
+    - Leonardo Oliveira
+    - Vanessa Mendes
+    - Tiago Croda
+    - Edmar Ianella
+    - Luca Dias
 - Qual é a grade curricular de determinado curso da ETS
-- Agenda da semana/dia
 - Quantos setores existem dentro da Bosch Campinas
 - Quantas Bosch existem em determinado continente
-- Quem são os instrutores da ETS
 - Quem são os seus desenvolvedores/criadores
 - O que significa ETS
 - O que significa a sigla de cada área (PT/ED/PS/etc)
