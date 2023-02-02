@@ -6,7 +6,7 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - Programação
 - Mecânica
 - Eletroeletrônica
-- Econômia
+- Economia
 - Metodologias de processos e projetos
 ***
 #### Perguntas relacionadas a Bosch:
