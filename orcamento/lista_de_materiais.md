@@ -31,7 +31,7 @@ Trilho de gaveta | 02 | 29,90 | [Amazon](https://www.amazon.com.br/Corredi%C3%A7
 - Tamanho Lcd: 143mm x 83mm
 - Display LCD: TFT Touch 5"
 
-**Teclado sem fio Logitec Touchpad integrado:**
+**Mini Teclado Multilaser:**
 - Fabricante: Multilaser
 - Sistema operacional: Windows, Linux, MacOS
 - Material: plastico
