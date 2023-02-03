@@ -63,6 +63,8 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
     - Tiago Croda
     - Edmar Ianella
     - Luca Dias
+    - Francis Franquini
+    - Roberta Costa
 - Qual é a grade curricular de determinado curso da ETS
 - Quantos setores existem dentro da Bosch Campinas
 - Quantas Bosch existem em determinado continente
