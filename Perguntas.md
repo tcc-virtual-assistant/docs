@@ -56,7 +56,7 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
     - *G7:* Dr. Tanja Rückert
 - **Agenda da semana/dia**
     - *Resposta:* Para poder verificar a agenda da semana montada pelos instrutores da ETS, acesse a aba de agenda na interface do meu sistema.
-- Quem são os instrutores da ETS
+- **Quem são os instrutores da ETS**
     - Cleber Augusto
     - Leonardo Oliveira
     - Vanessa Mendes
@@ -67,6 +67,8 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
     - Roberta Costa
 - **O que significa ETS**
     - *Resposta:* ETS se trata da sigla em inglês para Escola Técnica de Engenharia. A ETS todos os anos integra diversos aprendizer na empresa da Bosch para poderem adquirir conhecimentos relacionados a um dos cursos do Senai, assim garantindo que os profissionais que estão atuando na planta tenham qualificação e conhecimento técnico referente ao mundo empresarial.
+- **Quantos colaboradores da Bosch existem no Brasil**
+    - Com mais de 65 anos de história com o Brasil, Grupo Bosch emprega atualmente no país cerca de 8.800 colaboradores.
 - Qual é a grade curricular de determinado curso da ETS
 - Quantos setores existem dentro da Bosch Campinas
 - Quantas Bosch existem em determinado continente
