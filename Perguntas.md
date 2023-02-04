@@ -65,11 +65,12 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
     - Luca Dias
     - Francis Franquini
     - Roberta Costa
+- **O que significa ETS**
+    - *Resposta:* ETS se trata da sigla em inglês para Escola Técnica de Engenharia. A ETS todos os anos integra diversos aprendizer na empresa da Bosch para poderem adquirir conhecimentos relacionados a um dos cursos do Senai, assim garantindo que os profissionais que estão atuando na planta tenham qualificação e conhecimento técnico referente ao mundo empresarial.
 - Qual é a grade curricular de determinado curso da ETS
 - Quantos setores existem dentro da Bosch Campinas
 - Quantas Bosch existem em determinado continente
 - Quem são os seus desenvolvedores/criadores
-- O que significa ETS
 - O que significa a sigla de cada área (PT/ED/PS/etc)
 - O que cada área faz dentro da planta da Bosch
 - Quais são os turnos da Bosch e seus horários
