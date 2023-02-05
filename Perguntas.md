@@ -68,9 +68,9 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - **O que significa ETS**
     - *Resposta:* ETS se trata da sigla em inglês para Escola Técnica de Engenharia. A ETS todos os anos integra diversos aprendizer na empresa da Bosch para poderem adquirir conhecimentos relacionados a um dos cursos do Senai, assim garantindo que os profissionais que estão atuando na planta tenham qualificação e conhecimento técnico referente ao mundo empresarial.
 - **Quantos colaboradores da Bosch existem no Brasil**
-    - Com mais de 65 anos de história com o Brasil, Grupo Bosch emprega atualmente no país cerca de 8.800 colaboradores.
+    - *Resposta:* Com mais de 65 anos de história com o Brasil, Grupo Bosch emprega atualmente no país cerca de 8.800 colaboradores.
 - **A quantos anos a Bosch está no Brasil**
-    - Em 1959 a Bosch se transferiu para Campinas, São Paulo, inaugurando ali sua primeira fábrica no Brasil para produzir autopeças.
+    - *Resposta:* Em 1959 a Bosch se transferiu para Campinas, São Paulo, inaugurando ali sua primeira fábrica no Brasil para produzir autopeças.
 - Qual é a grade curricular de determinado curso da ETS
 - Quantos setores existem dentro da Bosch Campinas
 - Quantas Bosch existem em determinado continente
