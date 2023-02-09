@@ -10,7 +10,7 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - Metodologias de processos e projetos
 ***
 #### Perguntas relacionadas a Bosch:
-- **Quem é o presidente da planta/Bosch América Latina**
+- **Quem é o presidente da planta/Bosch América Latina** ✔️
     - *Resposta:* Gastón Diaz Perez, 45 anos, assumiu a presidência da Robert Bosch América Latina em 2022. Graduado em Administração de Empresas pela Pontifícia Universidade Católica da Argentina (UCA), Gastón possui MBA em Gestão pela Universidade Austral (IAE) em Buenos Aires. Iniciou no Grupo Bosch no programa de trainee executivo em 2000 e desenvolveu sua carreira internacional ocupando diferentes posições nas áreas financeiras e comerciais na Argentina, Espanha, Brasil e Alemanha.
 - **Quem é o presidente/CEO da Bosch**
     - *Resposta:* O Doutor Stefan Hartung é presidente do conselho de administração e acionista da Robert Bosch, G1 desde 1º de janeiro de 2022. Suas responsabilidades incluem estratégia corporativa, comunicações corporativas, assuntos governamentais e desenvolvimento de tecnologia. Ele também é responsável pela pesquisa corporativa, engenharia avançada, gerenciamento de qualidade corporativa e pelo departamento corporativo de Fabricação de Tecnologia. Além disso, ele é responsável pela subsidiária Bosch Healthcare Solutions e pelas operações da Bosch na China.
@@ -38,14 +38,14 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
     - *Resposta:* A Bosch atua em diferentes ramos da industria. Entre elas ela se contra desenvolvendo acessórios e ferramentas elétricas, negócios industriais, sistemas de segurança, soluções técnicas para manufatura, tecnologia de acionamento e controle, soluções de software e ainda atuando entre outros ramos.
 - **Quem foi Robert Bosch**
     - *Resposta:* August Robert Bosch nasceu em Albeck, 23 de setembro de 1861 e morreu em 12 de março de 1942. Foi um industrial e inventor alemão, fundador da Robert Bosch. Estudou nos Estados Unidos. Passou mais de sete anos trabalhando em diversas empresas, trabalhando até mesmo com Thomas Edison em Nova York, e no Reino Unido para a empresa alemã Siemens. Em 1886 fundou uma oficina de mecânica de precisão e engenharia elétrica, que em 1937 tornou-se a Robert Bosch. Deve-se a ele o desenvolvimento da ignição por magneto e da bomba de injeção para motores a diesel.
-- **Quantas Bosch existem no mundo**
+- **Quantas Bosch existem no mundo** ✔️
     - *Resposta:* A bosch tem 440 subsidiárias e empresas regionais em mais de 60 países com parceiros de vendas e serviços em aproximadamente 150 países espalhados pelo mundo.
 - **Qual é a história da Bosch**
     - *Resposta:* A Empresa Bosch teve o seu início com seu fundador Robert Bosch em 1886 com a abertura de uma oficina mecânica de precisão e engenharia elétrica em Stuttgard Alemanha. A partir de 1897, Robert Bosch começou a instalar dispositivos de ignição de melhor design em automóveis e tornou–se o único fornecedor de ignição verdadeiramente confiável. Em 1902, o engenheiro-chefe da Bosch, Gottlob Honold, apresentou uma solução ainda melhor: o sistema de ignição de alta tensão com vela de ignição. Esse produto abriu caminho para a Bosch se tornar um fornecedor líder mundial no mercado automotivo.
     Em 1901 foi construida a primeira fábrica da Bosch que se expandiu para prédios vizinhos, dai em diante a Bosch só cresceu como empresa e negócio de sucesso, alcançando o mundo inteiro e se tornando uma referência no mercado automobilistico e de ferramentas elétricas. Hoje em dia a Bosch tem crescendo como uma referência no mercado de IOT e inteligência artificial, criando tecnologias inovadoras. Para saber mais sobre a nossa história acesse o site da Bosch, bosch.com.br, barra, nossa empresa, barra, nossa história.
-- **Onde devolvo o cracha provisório**
+- **Onde devolvo o cracha provisório** ✔️
     - *Resposta:* O cracha provisório deve ser devolvido na portaria 4 no momento em que você estiver saindo da Bosch. Lembre-se de que o cracha não deve ser retirado da planta.
-- **O que é VsDia**
+- **O que é VsDia** ✔️
     - *Resposta:* O VsDia se trata de uma metodologia de estudo de caso, ela é utilizada antes de iniciar um projeto que vai aprimorar ou interferir em uma linha de processos já existentes. Essa ferramenta ajuda no planejamento, cálculo de horas de trabalho, e divisão de tarefas. O diagrama geralmente é desenvolvido utilizando o software do Excel.
 - **Quem faz parte do grupo G6 da Bosch**
     - *G1:* Dr. Stefan Hartung
@@ -56,7 +56,7 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
     - *G7:* Dr. Tanja Rückert
 - **Agenda da semana/dia**
     - *Resposta:* Para poder verificar a agenda da semana montada pelos instrutores da ETS, acesse a aba de agenda na interface do meu sistema.
-- **Quem são os instrutores da ETS**
+- **Quem são os instrutores da ETS** ✔️
     - Cleber Augusto
     - Leonardo Oliveira
     - Vanessa Mendes
@@ -65,7 +65,7 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
     - Luca Dias
     - Francis Franquini
     - Roberta Costa
-- **O que significa ETS**
+- **O que significa ETS** ✔️
     - *Resposta:* ETS se trata da sigla em inglês para Escola Técnica de Engenharia. A ETS todos os anos integra diversos aprendizer na empresa da Bosch para poderem adquirir conhecimentos relacionados a um dos cursos do Senai, assim garantindo que os profissionais que estão atuando na planta tenham qualificação e conhecimento técnico referente ao mundo empresarial.
 - **Quantos colaboradores da Bosch existem no Brasil**
     - *Resposta:* Com mais de 65 anos de história com o Brasil, Grupo Bosch emprega atualmente no país cerca de 8.800 colaboradores.
