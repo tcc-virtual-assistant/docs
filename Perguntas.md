@@ -57,6 +57,7 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - **Agenda da semana/dia**
     - *Resposta:* Para poder verificar a agenda da semana montada pelos instrutores da ETS, acesse a aba de agenda na interface do meu sistema.
 - **Quem são os instrutores da ETS** ✔️
+    - *Resposta:* Atualmente a Bosch tem 8 instrutores efetivados. Sendo esse responsáveis por diferentes cursos e aulas dentro da ETS. Eles são Cleber Augusto, Leonardo Oliveira, Vanessa Mendes, Tiago Croda, Edmar Ianella, Lucas Dias, Francis Franquini e Roberta Costa.
     - Cleber Augusto
     - Leonardo Oliveira
     - Vanessa Mendes
@@ -71,6 +72,10 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
     - *Resposta:* Com mais de 65 anos de história com o Brasil, Grupo Bosch emprega atualmente no país cerca de 8.800 colaboradores.
 - **A quantos anos a Bosch está no Brasil**
     - *Resposta:* Em 1959 a Bosch se transferiu para Campinas, São Paulo, inaugurando ali sua primeira fábrica no Brasil para produzir autopeças.
+- **Qual é o seu objetivo como assistente virtual**
+    - *Resposta:* O meu objetivo é tirar as dúvidas dos colaboradores da Bosch acerca da empresa. Assim ajudando a criar um ambiente mais familiar e confortável para todos. Além disso, tenho ferramentas de localização e agendamentos que podem ser utilizadas para ajudar no gerenciamento da ETS.
+- **Quantas Bosch existem no Brasil**
+    - *Resposta:* Atualmente no Brasil existem 17 unidades da Bosch, sendo que 9 se encontram no estado de São Paulo, uma em Minas Gerais, uma na Bahia, outra em Pernambuco, 3 no Paraná e duas em Santa Catarina.
 - Qual é a grade curricular de determinado curso da ETS
 - Quantos setores existem dentro da Bosch Campinas
 - Quantas Bosch existem em determinado continente
@@ -82,7 +87,7 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - Como enviar o atestado para o ambulatório
 - Onde posso retirar os EPIs
 - Lista de ramal
-- Qual é o seu objetivo como assistente virtual
+- Quem é o gestor da ETS
 
 ***
 
