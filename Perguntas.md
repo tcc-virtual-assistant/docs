@@ -88,6 +88,8 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - Onde posso retirar os EPIs
 - Lista de ramal (portaria 4, bombeiros, fcm, fretados, ambulatório)✔️
 - Quem é o gestor da ETS
+- Linha de passagem ets (aprendiz, meio...)
+- Há quanto tempo existe a ETS?
 
 ***
 
