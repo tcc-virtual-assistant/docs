@@ -86,7 +86,7 @@ O Assistente virtual vem com a intenção de informar ao colaborador não apenas
 - Como eu posso arumar o meu ponto
 - Como enviar o atestado para o ambulatório
 - Onde posso retirar os EPIs
-- Lista de ramal
+- Lista de ramal (portaria 4, bombeiros, fcm, fretados, ambulatório)✔️
 - Quem é o gestor da ETS
 
 ***
