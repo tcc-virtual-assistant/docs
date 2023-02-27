@@ -3,7 +3,7 @@
 Produto | Quantidade | Preço | Local de compra
 :-----: | :-----: | :-----: | :-----:
 Raspberry PI 4 4gb | 01 | 1.300,00 | [Amazon](https://www.amazon.com.br/Raspberry-Pi-Computer-Model-RAM/dp/B07TC2BK1X/ref=asc_df_B07TC2BK1X/?tag=googleshopp00-20&linkCode=df0&hvadid=379714766595&hvpos=&hvnetw=g&hvrand=11063959695783500838&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-818643320764&psc=1) |
-Tela Touch LCD para Raspberry | 01 | 350,00 | [Baú da eletrônica](https://www.baudaeletronica.com.br/display-lcd-tft-touch-5-raspberry-pi.html) |
+Monitor Touch Screen 24" Dell P2418HT | 01 | 2.363,00 | [Dell](https://www.dell.com/pt-br/shop/monitor-touch-screen-24-dell-p2418ht/apd/210-asnw/monitores-e-acess%C3%B3rios) |
 Mini Teclado Multilaser | 01 | 69,00 | [Amazon](https://www.amazon.com.br/Multilaser-TC153-Teclado-Comfort-Preto/dp/B074WGMF1Q/ref=asc_df_B074WGMF1Q/?tag=googleshopp00-20&linkCode=df0&hvadid=379713309507&hvpos=&hvnetw=g&hvrand=9776396848694902944&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-811347645313&th=1) |
 Headphone 3.5mm P2 | 01 | 30,50 | [Amazon](https://www.amazon.com.br/Fone-Ouvido-Headset-Hs302-Newlink/dp/B0754CLHP1/ref=d_pd_sbs_sccl_2_7/131-0797966-0324922?pd_rd_w=Pnga2&content-id=amzn1.sym.d5ffa5eb-c14b-4098-a3c1-e33e4cc20b5c&pf_rd_p=d5ffa5eb-c14b-4098-a3c1-e33e4cc20b5c&pf_rd_r=SN12B4CAGKC4JB3RJ871&pd_rd_wg=meI0n&pd_rd_r=58a7fc36-860e-4bea-b1e2-35daff6e8c7a&pd_rd_i=B0754CLHP1&psc=1) |
 Microfone de lapela | 01 | 20,00 | [Casas Bahia](https://www.casasbahia.com.br/microfone-de-lapela-celular-smartphone-profissional-stereo-1505842478/p/1505842478?utm_medium=Cpc&utm_source=google_freelisting&IdSku=1505842478&idLojista=12231&tipoLojista=3P) |
@@ -24,7 +24,7 @@ Trilho de gaveta | 02 | 29,90 | [Amazon](https://www.amazon.com.br/Corredi%C3%A7
 - Dimensões do produto: 10 x 7 x 3 cm; 50g
 - Tipo de Memória: DDR3 SDRAM
 
-**Tela Touch LCD para Raspberry:**
+**Monitor Touch Screen 24" Dell P2418HT:**
 - Resolução: 800x480 pixels
 - Entrada: HDMI
 - Alimentação: USB, 5V @ 1A
